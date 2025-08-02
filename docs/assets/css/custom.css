@@ -1,0 +1,13 @@
+/* Breadcrumbs sichtbar machen */
+.md-breadcrumbs {
+  display: flex !important;
+  padding: 0.5rem 1rem;
+  background: var(--md-default-bg-color--light);
+  font-size: .7rem;
+  border-bottom: 1px solid var(--md-primary-fg-color);
+}
+
+/* Für bessere Sichtbarkeit */
+.md-header__inner {
+  flex-wrap: wrap;
+}

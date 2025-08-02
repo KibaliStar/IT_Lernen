@@ -1,6 +1,33 @@
-site_name: My Docs
+site_name: IT - Lerndokumentation
+site_description: Dokumentation zu IT-Themen, Netzwerken, Sicherheit, Linux und Tools
 site_url: https://sitename.example.com
+
+extra_css:
+  - assets/css/custom.css
+
+nav:
+  - Home: index.md
+  - Network: 
+    - Network/index.md
+  - Security: 
+    - Security/index.md
+  - Linux: 
+    - Linux/index.md
+  - Tools: 
+    - Tools/index.md
+    - MkDocs: Tools/MkDocs/index.md
+
+
+plugins:
+  - search:
+      enabled: true
+      lang: de
+  - glightbox:
+      enabled: true
+      lightbox: true
+
 theme: 
+  language: de
   name: material
   font:
     text: Merriweather Sans
@@ -37,8 +64,13 @@ theme:
     
   features:
     - navigation.footer
-  #  - navigation.tabs
-  #  - navigation.top
+    - navigation.path    # Breadcrumbs nur für Sponsoren :(
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.sections
+    - navigation.expand
+  
 
 markdown_extensions:
   - attr_list

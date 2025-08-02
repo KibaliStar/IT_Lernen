@@ -24,7 +24,7 @@ plugins:
       lang: de
   - glightbox:
       enabled: true
-      lightbox: true
+      lightbox: true # Lightbox für Bilder
 
 theme: 
   language: de

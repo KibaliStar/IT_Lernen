@@ -13,11 +13,163 @@
          <lastmod>2025-08-03</lastmod>
     </url>
     <url>
+         <loc>https://sitename.example.com/IT-Wissen/ports/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
          <loc>https://sitename.example.com/Linux/</loc>
          <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://sitename.example.com/Network/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/1_Netzwerkgrundlagen/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/1_Netzwerkgrundlagen/1_1_OSI_Modell/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/1_Netzwerkgrundlagen/1_2_Netzwerktopologien/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/1_Netzwerkgrundlagen/1_3_Netzwerkgeraete/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/1_Netzwerkgrundlagen/1_4_Kabeltypen/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/1_Netzwerkgrundlagen/1_5_Ethernet_Standards/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/1_Netzwerkgrundlagen/1_6_IP_Adressierung/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/1_Netzwerkgrundlagen/1_7_Protokolle_und_Ports/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/1_Netzwerkgrundlagen/1_8_Virtualisierung_und_Cloud_Konzepte/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/2_Netzwerk-Implementierung/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/2_Netzwerk-Implementierung/2_1_Routing-Technologien/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/2_Netzwerk-Implementierung/2_2_Switching-Konzepte/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/2_Netzwerk-Implementierung/2_3_Wireless-Netzwerke/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/2_Netzwerk-Implementierung/2_4_Cloud_und_Virtualisierungs_Implementierung/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/2_Netzwerk-Implementierung/2_5_Netzwerkautomatisierung/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/2_Netzwerk-Implementierung/2_6_IoT_Geraete_Integration/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/3_Netzwerkbetrieb/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/3_Netzwerkbetrieb/3_1_Ueberwachungstools/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/3_Netzwerkbetrieb/3_2_Organisatorische_Dokumentation/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/3_Netzwerkbetrieb/3_3_Disaster_Recovery_und_Business_Continuity/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/3_Netzwerkbetrieb/3_4_Patch_Management/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/3_Netzwerkbetrieb/3_5_Remote-Zugriff/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/3_Netzwerkbetrieb/3_6_Politik_und_Lizenzmanagement/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/4_Netzwerksicherheit/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/4_Netzwerksicherheit/4_1_Bedrohungen_und_Schwachstellen/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/4_Netzwerksicherheit/4_2_Sicherheitsgeraete/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/4_Netzwerksicherheit/4_3_Authentifizierungsmethoden/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/4_Netzwerksicherheit/4_4_Kryptografie_Grundlagen/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/4_Netzwerksicherheit/4_5_Sicherheitsprotokolle/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/4_Netzwerksicherheit/4_6_Haertung_von_Netzwerkgeraeten/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/5_Fehlerbehebung/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/5_Fehlerbehebung/5_1_Methodische_Fehlersuche/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/5_Fehlerbehebung/5_2_Kabelprobleme/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/5_Fehlerbehebung/5_3_Wireless_Probleme/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/5_Fehlerbehebung/5_4_IP_Konnektivitaetsprobleme/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/5_Fehlerbehebung/5_5_Leistungsprobleme/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Network/5_Fehlerbehebung/5_6_Sicherheitsbezogene_Probleme/</loc>
          <lastmod>2025-08-03</lastmod>
     </url>
     <url>
@@ -58,6 +210,10 @@
     </url>
     <url>
          <loc>https://sitename.example.com/Tools/MkDocs/formatierung/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example.com/Tools/MkDocs/installation/</loc>
          <lastmod>2025-08-03</lastmod>
     </url>
 </urlset>

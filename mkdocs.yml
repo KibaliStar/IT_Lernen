@@ -13,9 +13,15 @@ nav:
     - Security/index.md
   - Linux: 
     - Linux/index.md
+  - Pogrammieren:
+    - Programmieren/index.md
+  - Fachinformatiker: 
+    - Fachinformatiker/index.md
   - Tools: 
     - Tools/index.md
+    - Git: Tools/Git/index.md
     - MkDocs: Tools/MkDocs/index.md
+    
 
 
 plugins:
@@ -24,13 +30,13 @@ plugins:
       lang: de
   - glightbox:
       enabled: true
-      lightbox: true # Lightbox für Bilder
+#      lightbox: true # Lightbox für Bilder
 
 theme: 
   language: de
   name: material
   font:
-    text: Merriweather Sans
+  #  text:  Merriweather Sans
     code: Red Hat Mono
   logo: assets/vogel.png
   # favicon: assets/favicon.ico

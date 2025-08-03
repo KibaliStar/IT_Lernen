@@ -1,4 +1,4 @@
-???+ info "Planung dieser Lernseite"
+!!! info "Planung dieser Lernseite"
 
     + **Networks**
         - Geschichte

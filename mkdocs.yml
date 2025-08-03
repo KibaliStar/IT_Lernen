@@ -3,7 +3,7 @@ site_description: Dokumentation zu IT-Themen, Netzwerken, Sicherheit, Linux und 
 site_url: https://sitename.example.com
 
 extra_css:
-  - assets/css/custom.css
+  - stylesheets/extra.css
 
 nav:
   - Home: index.md
@@ -21,6 +21,8 @@ nav:
     - Tools/index.md
     - Git: Tools/Git/index.md
     - MkDocs: Tools/MkDocs/index.md
+  - IT-Wissen:
+    - IT-Wissen/index.md
     
 
 
@@ -28,9 +30,6 @@ plugins:
   - search:
       enabled: true
       lang: de
-#  - glightbox:
-#      enabled: true
-#      lightbox: true # Lightbox für Bilder
 
 theme: 
   language: de
@@ -38,8 +37,8 @@ theme:
   font:
   #  text:  Merriweather Sans
     code: Red Hat Mono
-  logo: assets/vogel.png
-  # favicon: assets/favicon.ico
+  logo: assets/Icon/favicon-32x32.png
+  favicon: assets/Icon/favicon.ico
   palette:
     
     # Palette toggle for light mode
@@ -76,10 +75,10 @@ theme:
     - navigation.indexes
     - navigation.sections
     - navigation.expand
-  
 
 markdown_extensions:
   - attr_list
+  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg

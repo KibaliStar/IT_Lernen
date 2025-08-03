@@ -1,17 +1,13 @@
 # MkDocs
 
+- [*Installation*](leer.md "Installation")
+- [Formatierung](formatierung.md "Formatierungsmöglichkeiten")
+
+
 ## MkDocs ist eine Software zum erstellen von Dokumentationen.
 Diese Seite wurde mit MkDocs erstellt.
 
-### Installation
-
-
-
-### Formatierungsmöglichkeiten
-
-
-
-# Welcome to MkDocs
+## Welcome to MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
@@ -29,7 +25,3 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 
-So setzt man Icons: :beers: :soccer:
-
-![Image title](https://i0.wp.com/www.kibali.de/wp-content/uploads/2024/10/image_editor_output_image226801734-17300707689861353414628111809172.jpg?resize=225%2C300&ssl=1){ align=left, width="300" }
-![Image title](../../assets/vogel.jpg){ align=left, width="300" }

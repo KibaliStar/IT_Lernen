@@ -28,8 +28,8 @@ plugins:
   - search:
       enabled: true
       lang: de
-  - glightbox:
-      enabled: true
+#  - glightbox:
+#      enabled: true
 #      lightbox: true # Lightbox für Bilder
 
 theme: 

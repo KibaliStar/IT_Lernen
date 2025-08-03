@@ -13,6 +13,36 @@
     margin-top: 0.1rem !important;}
 
 
+/* Links Einstellungen */
+.md-typeset a::before {
+    content: "Link: ";
+    color: #666; /* Farbe anpassen */
+    font-size: 0.9em;
+    margin-right: 0.2em;
+}
+/* Hervorgehobene Links */
+.md-typeset a {
+    background-color: rgb(255, 250, 241);          /* Hellblauer Hintergrund */
+    border: 2px solid orange;          /* Blaue Umrandung */
+    border-radius: 5px;                 /* Abgerundete Ecken */
+    padding: 0.2em 0.4em;              /* Innenabstand */
+    color: orange !important;          /* Textfarbe (überschreibt Theme) */
+    text-decoration: none !important;    /* Unterstrich entfernen */
+    transition: all 0.3s ease;          /* Sanfte Übergänge */
+    font-weight: 300;
+}
+
+/* Hover-Effekt */
+.md-typeset a:hover {
+    background-color: orange;          /* Hintergrund wird dunkelblau */
+    color: white !important;            /* Text weiß */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Leichter Schatten */
+}
+/* Besuchte Links */
+.md-typeset a:visited {
+    color: #6A1B9A;                   /* Farbe für besuchte Links */
+}
+
 .spalten2-div {
     flex: 1;
     border-radius: 5px;

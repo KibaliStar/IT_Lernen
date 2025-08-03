@@ -1,6 +1,6 @@
 # MkDocs
 
-- [*Installation*](leer.md "Installation")
+- [Installation](installation.md "Installation")
 - [Formatierung](formatierung.md "Formatierungsmöglichkeiten")
 
 

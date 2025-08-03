@@ -5,10 +5,58 @@ site_url: https://sitename.example.com
 extra_css:
   - stylesheets/extra.css
 
+##### NAVIGATION #####
 nav:
   - Home: index.md
   - Network: 
     - Network/index.md
+    - 1. Netzwerkgrundlagen: 
+      - Network/1_Netzwerkgrundlagen/index.md
+      - 1.1 OSI und TCP/IP Referenzmodelle: Network/1_Netzwerkgrundlagen/1_1_OSI_Modell/index.md
+      - 1.2 Netzwerktopologien (Stern, Ring, Mesh, Hybrid): Network/1_Netzwerkgrundlagen/1_2_Netzwerktopologien/index.md
+      - 1.3 Netzwerkgeräte (Router, Switch, AP, Firewall, Load Balancer): Network/1_Netzwerkgrundlagen/1_3_Netzwerkgeraete/index.md
+      - 1.4 Kabeltypen und Verbindungen (Twisted Pair, Fiber, Coaxial): Network/1_Netzwerkgrundlagen/1_4_Kabeltypen/index.md
+      - 1.5 Ethernet-Standards (10BASE-T bis 10GBASE-T): Network/1_Netzwerkgrundlagen/1_5_Ethernet_Standards/index.md
+      - 1.6 IP-Adressierung (IPv4, IPv6, Subnetting, CIDR): Network/1_Netzwerkgrundlagen/1_6_IP_Adressierung/index.md
+      - 1.7 Protokolle und Ports (TCP, UDP, ICMP, DNS, DHCP): Network/1_Netzwerkgrundlagen/1_7_Protokolle_und_Ports/index.md
+      - 1.8 Virtualisierung und Cloud-Konzepte (IaaS, PaaS, SaaS): Network/1_Netzwerkgrundlagen/1_8_Virtualisierung_und_Cloud_Konzepte/index.md
+
+    - 2. Netzwerk-Implementierung: 
+      - Network/2_Netzwerk-Implementierung/index.md
+      - 2.1 Routing-Technologien (Statisch, Dynamisch OSPF, EIGRP, BGP): Network/2_Netzwerk-Implementierung/2_1_Routing-Technologien/index.md
+      - 2.2 Switching-Konzepte (VLANs, STP, Port Aggregation): Network/2_Netzwerk-Implementierung/2_2_Switching-Konzepte/index.md
+      - 2.3 Wireless-Netzwerke (802.11a/b/g/n/ac/ax, WLAN-Architekturen): Network/2_Netzwerk-Implementierung/2_3_Wireless-Netzwerke/index.md
+      - 2.4 Cloud- und Virtualisierungs-Implementierung: Network/2_Netzwerk-Implementierung/2_4_Cloud_und_Virtualisierungs_Implementierung/index.md
+      - 2.5 Netzwerkautomatisierung (SDN, APIs): Network/2_Netzwerk-Implementierung/2_5_Netzwerkautomatisierung/index.md
+      - 2.6 IoT-Geräte-Integration: Network/2_Netzwerk-Implementierung/2_6_IoT_Geraete_Integration/index.md
+
+    - 3. Netzwerkbetrieb: 
+      - Network/3_Netzwerkbetrieb/index.md
+      - 3.1 Überwachungstools (SNMP, NetFlow, Syslog): Network/3_Netzwerkbetrieb/3_1_Ueberwachungstools/index.md
+      - 3.2 Organisatorische Dokumentation (Diagramme, Baselines, SOPs): Network/3_Netzwerkbetrieb/3_2_Organisatorische_Dokumentation/index.md
+      - 3.3 Disaster Recovery und Business Continuity: Network/3_Netzwerkbetrieb/3_3_Disaster_Recovery_und_Business_Continuity/index.md
+      - 3.4 Patch-Management: Network/3_Netzwerkbetrieb/3_4_Patch_Management/index.md
+      - 3.5 Remote-Zugriff (VPN, RDP, SSH): Network/3_Netzwerkbetrieb/3_5_Remote-Zugriff/index.md
+      - 3.6 Politik- und Lizenzmanagement: Network/3_Netzwerkbetrieb/3_6_Politik_und_Lizenzmanagement/index.md
+
+    - 4. Netzwerksicherheit: 
+      - Network/4_Netzwerksicherheit/index.md  
+      - 4.1 Bedrohungen und Schwachstellen (DDoS, MITM, Phishing): Network/4_Netzwerksicherheit/4_1_Bedrohungen_und_Schwachstellen/index.md
+      - 4.2 Sicherheitsgeräte (Firewalls, IDS/IPS, Proxy): Network/4_Netzwerksicherheit/4_2_Sicherheitsgeraete/index.md
+      - 4.3 Authentifizierungsmethoden (RADIUS, TACACS+, 802.1X): Network/4_Netzwerksicherheit/4_3_Authentifizierungsmethoden/index.md
+      - 4.4 Kryptografie-Grundlagen (PKI, SSL/TLS, IPsec): Network/4_Netzwerksicherheit/4_4_Kryptografie_Grundlagen/index.md
+      - 4.5 Sicherheitsprotokolle (WPA2/WPA3, MAC Filtering): Network/4_Netzwerksicherheit/4_5_Sicherheitsprotokolle/index.md
+      - 4.6 Härtung von Netzwerkgeräten: Network/4_Netzwerksicherheit/4_6_Haertung_von_Netzwerkgeraeten/index.md
+
+    - 5. Fehlerbehebung: 
+      - Network/5_Fehlerbehebung/index.md
+      - 5.1 Methodische Fehlersuche (Bottom-Up, Top-Down, Divide-and-Conquer): Network/5_Fehlerbehebung/5_1_Methodische_Fehlersuche/index.md
+      - 5.2 Kabelprobleme (TDR, OTDR, Kabeltester): Network/5_Fehlerbehebung/5_2_Kabelprobleme/index.md
+      - 5.3 Wireless-Probleme (Signalstörung, Kanalüberlappung): Network/5_Fehlerbehebung/5_3_Wireless_Probleme/index.md
+      - 5.4 IP-Konnektivitätsprobleme (ping, tracert, ipconfig): Network/5_Fehlerbehebung/5_4_IP_Konnektivitaetsprobleme/index.md
+      - 5.5 Leistungsprobleme (Bandbreite vs. Latenz, Jitter): Network/5_Fehlerbehebung/5_5_Leistungsprobleme/index.md
+      - 5.6 Sicherheitsbezogene Probleme (Firewall-Regeln, ACLs): Network/5_Fehlerbehebung/5_6_Sicherheitsbezogene_Probleme/index.md
+
   - Security: 
     - Security/index.md
   - Linux: 
@@ -24,12 +72,13 @@ nav:
   - IT-Wissen:
     - IT-Wissen/index.md
     
-
+##### NAVIGATION ENDE #####
 
 plugins:
   - search:
       enabled: true
       lang: de
+  - include-markdown
 
 theme: 
   language: de

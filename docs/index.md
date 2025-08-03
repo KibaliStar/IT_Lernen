@@ -21,4 +21,6 @@
     + **Tools**
         - MkDocs
         - Git
+        - Wireshark
+        - Dokker
 

@@ -156,9 +156,17 @@
 ## Icon's
 !!! info ""
     !!! info inline "Icon's"
-        :beers: :soccer:
+        [:simple-materialformkdocs: MkDocs-Icon's](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/){: target="_blank" }
+
+        :beers: 
+        :soccer: 
+        :simple-youtube: 
+        :simple-materialformkdocs:
     ```
-        :beers: :soccer:
+        :beers: 
+        :soccer: 
+        :simple-youtube: 
+        :simple-materialformkdocs:
     ```
 
 
@@ -172,29 +180,37 @@
 
 !!! info ""
     !!! info inline "Bilder interne Adresse"
-        ![Image title](../../assets/Images/vogel.jpg){ align=left, width="300" }
-    ```
-        ![Image title](../../assets/Images/vogel.jpg){ align=left, width="300" }
+        ![Image title](../../assets/Icon/android-chrome-512x512.png){ align=left, width="300" }
+    ``` html
+        ![Image title](../../assets/Icon/android-chrome-512x512.png){ align=left, width="300" }
     ```
 
 
 ## Spalten
-<div style="display: flex; gap: 1em;">
+<div style="display: flex; gap: 1em; padding-bottom: 1em;" markdown>
 <div class="spalten2-div" style="background-color: #64fa91ff;" markdown="1">
-
-### Linke Spalte
+*Linke Spalte* 
 
 - Liste  
 - Tabelle  
 - Code  
-  
-</div>
+  </div>
 <div class="spalten2-div" style="flex: 1;  background-color: #f8a50966; border-radius: 5px; padding: 1em;" markdown="1">
-
-### Rechte Spalte
+*Rechte Spalte*
 
 > Zitat  
-**Fett**  
 
+**Fett**  
 </div>
 </div>
+
+
+## Include
+!!! info ""
+    ??? quote inline "IT-Wissen/Ports" 
+        <div markdown>
+        {% include "../../IT-Wissen/ports.md" %}
+        </div>
+    ![Include in Markdown](../../assets/Images/ITL_Tools_MkDocs_Include001.png){ align=left, width=60%}
+
+

@@ -30,7 +30,7 @@ plugins:
       lang: de
   - glightbox:
       enabled: true
-      lightbox: true # Lightbox für Bilder
+#      lightbox: true # Lightbox für Bilder
 
 theme: 
   language: de
